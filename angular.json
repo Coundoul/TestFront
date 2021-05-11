@@ -95,6 +95,7 @@
   },
   "defaultProject": "test-front",
   "cli": {
+    "analytics": false,
     "packageManager": "npm"
   }
 }
