@@ -31,11 +31,40 @@ Search page styles
   background-color: #f1f2f6;
 }
 .button-heybus {
-  opacity: 0.6;
+  height: 47px;
+  width: 161px;
   border-radius: 8px;
   background-color: #ff1b2e;
   color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
   letter-spacing: 0;
+  line-height: 22px;
+  font-family: 'Calibri', Courier, monospace;
+  text-align: center;
+  position: relative;
+  bottom: 7px;
+}
+
+.ville-depart {
+  height: 47px;
+  width: 200px;
+  border-radius: 8px;
+  background-color: #f1f2f6;
+}
+
+.ville-arrive {
+  height: 47px;
+  width: 200px;
+  border-radius: 8px;
+  background-color: #f1f2f6;
+}
+
+.choix-ville {
+  height: 47px;
+  width: 248px;
+  border-radius: 8px;
+  background-color: #f1f2f6;
 }
 
 #imagehome {
@@ -58,41 +87,4 @@ Search page styles
   font-size: 32px;
   letter-spacing: 0;
   line-height: 44px;
-}
-
-.search-sec {
-  padding: 2rem;
-}
-.search-slt {
-  display: block;
-  width: 100%;
-  font-size: 0.875rem;
-  line-height: 1.5;
-  color: #55595c;
-  background-color: #fff;
-  background-image: none;
-  border: 1px solid #ccc;
-  height: calc(3rem + 2px) !important;
-  border-radius: 0;
-}
-.wrn-btn {
-  width: 100%;
-  font-size: 16px;
-  font-weight: 400;
-  text-transform: capitalize;
-  height: calc(3rem + 2px) !important;
-  border-radius: 0;
-}
-@media (min-width: 992px) {
-  .search-sec {
-    position: relative;
-    top: -114px;
-    background: rgba(26, 70, 104, 0.51);
-  }
-}
-
-@media (max-width: 992px) {
-  .search-sec {
-    background: #1a4668;
-  }
 }
