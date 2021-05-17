@@ -90,6 +90,6 @@ export const fontAwesomeIcons = [
   faToilet,
   faCircle,
   faFan,
-  faMapMarkerAlt
+  faMapMarkerAlt,
   // jhipster-needle-add-icon-import
 ];

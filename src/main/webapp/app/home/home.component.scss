@@ -21,3 +21,41 @@ Main page styles
     background-size: contain;
   }
 }
+
+/* ==========================================================================
+Search page styles
+========================================================================== */
+
+.input-heybus {
+  border-radius: 8px;
+  background-color: #f1f2f6;
+}
+.button-heybus {
+  opacity: 0.6;
+  border-radius: 8px;
+  background-color: #ff1b2e;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+#imagehome {
+  background-color: rgba(0, 0, 0, 0.4);
+  position: relative;
+  right: 130px;
+  height: 400px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+
+#voyage {
+  height: 54px;
+  left: 190px;
+  position: relative;
+  top: 300px;
+  color: #ffffff;
+  font-family: 'Peace Sans';
+  font-weight: bold;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 44px;
+}

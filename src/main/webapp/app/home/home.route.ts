@@ -25,5 +25,5 @@ export const HOME_ROUTE: Routes = [
     data: {
       pageTitle: 'home.title',
     },
-  }
+  },
 ];
