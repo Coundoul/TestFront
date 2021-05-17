@@ -43,6 +43,7 @@ import {
   faCircle,
   faFan,
   faMapMarkerAlt,
+  faExchangeAlt,
   // jhipster-needle-add-icon-import
 } from '@fortawesome/free-solid-svg-icons';
 
@@ -91,5 +92,6 @@ export const fontAwesomeIcons = [
   faCircle,
   faFan,
   faMapMarkerAlt,
+  faExchangeAlt,
   // jhipster-needle-add-icon-import
 ];
